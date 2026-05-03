@@ -1,0 +1,169 @@
+﻿estacion_id,estacion_nombre,sensor_id,sensor_alias,sensor_nombre,fecha_observacion,metrica,valor
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-14,total,
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-14,media,3.302098
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-14,minimo,1.277
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-14,maximo,4.958
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-15,total,
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-15,media,3.280368
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-15,minimo,1.798
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-15,maximo,5.585
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-16,total,
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-16,media,1.9442639
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-16,minimo,0.239
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-16,maximo,5.137
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-17,total,
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-17,media,3.4319513
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-17,minimo,0.548
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-17,maximo,7.182
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-18,total,
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-18,media,4.1208544
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-18,minimo,1.319
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-18,maximo,8.7
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-19,total,
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-19,media,5.290993
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-19,minimo,1.183
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-19,maximo,9.76
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-20,total,
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-20,media,1.8686666
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-20,minimo,0.299
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-20,maximo,4.206
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-21,total,
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-21,media,2.9634583
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-21,minimo,0.617
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-21,maximo,4.792
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-22,total,
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-22,media,2.174993
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-22,minimo,0.113
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-22,maximo,4.837
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-23,total,
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-23,media,1.991736
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-23,minimo,0.358
+212,Ecomuseo,1422,WSP,Velocidad del viento,2026-04-23,maximo,3.389
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-14,total,
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-14,media,9.119157
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-14,minimo,7.55
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-14,maximo,10.62
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-15,total,
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-15,media,9.098333
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-15,minimo,6.545
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-15,maximo,11.52
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-16,total,
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-16,media,12.867146
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-16,minimo,4.01
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-16,maximo,19.77
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-17,total,
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-17,media,17.778473
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-17,minimo,10.63
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-17,maximo,22.99
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-18,total,
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-18,media,21.556667
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-18,minimo,14.25
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-18,maximo,24.98
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-19,total,
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-19,media,19.56021
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-19,minimo,13.89
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-19,maximo,23.81
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-20,total,
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-20,media,11.777306
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-20,minimo,6.947
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-20,maximo,17.59
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-21,total,
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-21,media,10.140278
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-21,minimo,8.15
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-21,maximo,14.22
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-22,total,
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-22,media,9.962757
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-22,minimo,6.386
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-22,maximo,15.51
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-23,total,
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-23,media,9.259556
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-23,minimo,5.665
+212,Ecomuseo,1424,TEMP,Temperatura,2026-04-23,maximo,13.52
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-14,total,
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-14,media,100.0
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-14,minimo,100.0
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-14,maximo,100.0
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-15,total,
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-15,media,100.0
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-15,minimo,100.0
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-15,maximo,100.0
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-16,total,
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-16,media,74.796524
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-16,minimo,30.33
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-16,maximo,100.0
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-17,total,
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-17,media,39.8616
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-17,minimo,23.9
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-17,maximo,65.96
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-18,total,
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-18,media,26.445417
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-18,minimo,21.31
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-18,maximo,42.5
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-19,total,
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-19,media,38.09264
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-19,minimo,20.67
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-19,maximo,70.3
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-20,total,
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-20,media,82.17326
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-20,minimo,28.0
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-20,maximo,100.0
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-21,total,
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-21,media,96.30146
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-21,minimo,75.21
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-21,maximo,100.0
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-22,total,
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-22,media,96.99476
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-22,minimo,76.95
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-22,maximo,100.0
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-23,total,
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-23,media,98.83542
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-23,minimo,83.5
+212,Ecomuseo,1425,HUM,Humedad relativa,2026-04-23,maximo,100.0
+212,Ecomuseo,1426,RAIN,Precipitación,2026-04-14,total,0.3
+212,Ecomuseo,1426,RAIN,Precipitación,2026-04-14,media,
+212,Ecomuseo,1426,RAIN,Precipitación,2026-04-14,minimo,
+212,Ecomuseo,1426,RAIN,Precipitación,2026-04-14,maximo,
+212,Ecomuseo,1426,RAIN,Precipitación,2026-04-15,total,0.2
+212,Ecomuseo,1426,RAIN,Precipitación,2026-04-15,media,
+212,Ecomuseo,1426,RAIN,Precipitación,2026-04-15,minimo,
+212,Ecomuseo,1426,RAIN,Precipitación,2026-04-15,maximo,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-14,total,4929.217
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-14,media,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-14,minimo,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-14,maximo,494.7
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-15,total,22377.121
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-15,media,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-15,minimo,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-15,maximo,595.1
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-16,total,48995.918
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-16,media,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-16,minimo,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-16,maximo,1106.0
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-17,total,39262.477
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-17,media,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-17,minimo,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-17,maximo,971.0
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-18,total,36708.926
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-18,media,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-18,minimo,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-18,maximo,1041.0
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-19,total,46254.184
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-19,media,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-19,minimo,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-19,maximo,1018.0
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-20,total,37766.68
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-20,media,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-20,minimo,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-20,maximo,1040.0
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-21,total,23719.533
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-21,media,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-21,minimo,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-21,maximo,1027.0
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-22,total,34546.91
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-22,media,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-22,minimo,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-22,maximo,1134.0
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-23,total,23552.02
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-23,media,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-23,minimo,
+212,Ecomuseo,1431,RAD,Radiación solar,2026-04-23,maximo,865.0
