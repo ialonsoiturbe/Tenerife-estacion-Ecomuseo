@@ -1,4 +1,4 @@
-# Datos-meteorol-gicos-diarios-de-Tenerife-Ecomuseo-
+# Datos-meteorologicos-diarios-de-Tenerife-Ecomuseo-
 Análisis de los datos meteorológicos diarios de Tenerife recogidos en la estación Ecomuseo.
 <br>
 Este set de datos proviene del catálogo de datos abiertos compartidos por el Gobierno de España.
