@@ -3,3 +3,4 @@ Análisis de los datos meteorológicos diarios de Tenerife recogidos en la estac
 <br>
 Este set de datos proviene del catálogo de datos abiertos compartidos por el Gobierno de España.
 https://datos.gob.es/es/catalogo/l03380011-datos-meteorologicos-diarios-de-tenerife-para-la-estacion-ecomuseo
+![mapa estaciones tenerife](mapa_tenerife_estaciones.png)
